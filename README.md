@@ -23,3 +23,6 @@ A small graphical hobby operating system written in C with a Windows-like GUI, b
 - FAT32 read support
 - Preemptive multitasking
 - GUI apps framework
+
+
+https://github.com/nucax/nucaxOS/releases/tag/1
